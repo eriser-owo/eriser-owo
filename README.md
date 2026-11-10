@@ -22,9 +22,9 @@
 <code><b>about me</b></code><br>
 - i wont tell you
 </br>  
-</br>  
 <code><b>contact</b></code><br>
-- [`eriser2763@outlook.com`](mailto:eriser2763@outlook.com)
+  
+- [`eriser2763@outlook.com`](mailto:eriser2763@outlook.com)<br>
 - QQ: `1517704008`
 
 </td>
