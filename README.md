@@ -3,8 +3,9 @@
 <table align="center">
 <tr>
 <td align="left" width="280" valign="top">
-<code><b>Metrics!!</b></code><br>
-<img src="https://count.getloli.com/get/@EraComBat?theme=original-new" alt="Visitor Count"/>
+  <code><b>You are my:</b></code><br>
+  <img src="https://count.getloli.com/get/@EraComBat?theme=original-new" alt="Visitor Count"/>
+  <div align="right"><code><b>visitors!</b></code></div>
 </td>
 <td align="left" width="450" valign="top">
 <code><b>Environment: Desktop</b></code><br>
@@ -19,10 +20,10 @@
 <tr>
 <td align="left" width="280" valign="top">
 <code><b>about me</b></code><br>
-- imma not good communicatin' and almost shy non-verbal<br><br>
-- but imma willing to contribute my own efforts :P<br><br>
+- i wont tell you
+</br>  
+</br>  
 <code><b>contact</b></code><br>
-  
 - [`eriser2763@outlook.com`](mailto:eriser2763@outlook.com)
 - QQ: `1517704008`
 
